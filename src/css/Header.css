@@ -1,0 +1,33 @@
+.Header_Links {
+    display: flex;
+    flex-direction: column;
+    margin-top: 12px;
+    text-align: right;
+}
+
+.Header_Link {
+    text-decoration: none;
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: large;
+}
+
+.b1 {
+    background: #1a1a1d;
+    color:antiquewhite;
+    font-weight: bold;
+    font-size: x-large;
+    border-radius: 10% 10% 10% 10%;
+    border-color:#C3073f ;
+  
+}
+
+.b2 {
+    background: #1a1a1d;
+    color:antiquewhite;
+    font-weight: bold;
+    font-size: x-large;
+    border-radius: 10% 10% 10% 10%;
+    border-color:#C3073f ;
+    margin-top: 12px;
+}
