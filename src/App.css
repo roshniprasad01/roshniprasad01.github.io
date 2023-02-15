@@ -2,9 +2,18 @@
  text-align: center;
  width: 100%;
  height: 95vh;
+ background: #1a1a1d;;
 }
 
-.App_Inner {
+.App_Inner1 {
+  color:#C3073f;
   font-weight: bold;
-  text-decoration: underline;
+  font-size: xx-large;
+  font-style: inherit;
+}
+
+.App_Inner2 {
+  color: rgb(250, 253, 255);
+  font-size: large;
+  font-style: oblique;
 }
