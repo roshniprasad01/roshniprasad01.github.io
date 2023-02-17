@@ -3,6 +3,7 @@
     flex-direction: column;
     margin-top: 12px;
     text-align: right;
+    
 }
 
 .Header_Link {
@@ -10,17 +11,14 @@
     color: antiquewhite;
     font-weight: bold;
     font-size: large;
-    margin-bottom: 1%;
-    margin-right: 3%;
+    margin: 0% 3% 3% 0%;
 }
 
 .b1 {
-    background: #1a1a1d;
+     
     color:antiquewhite;
     font-weight: bold;
     font-size: x-large;
-    border-radius: 10% 10% 10% 10%;
-    border-color:#C3073f ;
     padding: 0% 1% 0% 1%;
     
   
