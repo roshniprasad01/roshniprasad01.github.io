@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div className="App_Outer">
       <div className="App_Inner1">Roshni Prasad </div>
-      <img src="https://avatars.githubusercontent.com/u/84218269?v=4" alt="Profile Pic" width="200px" align="left" border="3"></img>
+      <img className='profile' src="https://avatars.githubusercontent.com/u/84218269?v=4" alt="Profile Pic" width="200px" align="left" border="3"></img>
 
       <BrowserRouter>
         <div className="App_Inner2">
